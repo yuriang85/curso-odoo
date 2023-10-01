@@ -20,11 +20,11 @@
 ##############################################################################
 
 {
-    'name': 'Father MFH',
+    'name': 'Primer modulo',
     'version': '16.0.1.0.0',
-    'author': 'Marlon Falcon Hernandez',
-    'maintainer': 'Marlon Falcon Hernandez',
-    'website': 'http://www.marlonfalcon.com',
+    'author': 'Yurian González Rodríguez',
+    'maintainer': 'Yurian González Rodríguez',
+    'website': 'http://www.yuriang.com',
     'license': 'AGPL-3',
     'category': 'Extra Tools',
     'summary': 'Short summary.',
